@@ -1,0 +1,9 @@
+apiVersion: v2
+name: nginx-chart
+description: Nginx Website
+type: application
+version: 0.1.0
+appVersion: "1.16.0"
+maintainers:
+  - email: vinodmv555@gmail.com
+    name: Vinod M V
